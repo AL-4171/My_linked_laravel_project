@@ -3,7 +3,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 $DB_HOST = 'localhost';
-$DB_NAME = 'blog_system1';
+$DB_NAME = 'blog_system';
 $DB_USER = 'root';
 $DB_PASS = '';
 
